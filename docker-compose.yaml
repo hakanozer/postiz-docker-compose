@@ -32,8 +32,8 @@ services:
       # CLOUDFLARE_REGION: 'auto'
 
       # === Social Media API Settings
-      X_API_KEY: ''
-      X_API_SECRET: ''
+      X_API_KEY: 'QyqxEePbRWrctL36wxsKLcyOq'
+      X_API_SECRET: 'Y6HzwBLelgcQUEIxlOvKQfDkX4Y3fzPsQt8BAcHUZn4FS6fqfR'
       LINKEDIN_CLIENT_ID: ''
       LINKEDIN_CLIENT_SECRET: ''
       REDDIT_CLIENT_ID: ''
